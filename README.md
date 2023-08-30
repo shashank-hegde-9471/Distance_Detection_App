@@ -1,4 +1,4 @@
-# Object Detection with YOLOv5 on Android
+# Object Detection with YOLOv7 on Android
 
 ## Introduction
 
